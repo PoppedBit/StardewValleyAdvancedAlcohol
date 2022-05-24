@@ -1,0 +1,11 @@
+{
+    "Name": "Advanced Alcohol",
+    "Author": "PoppedBit",
+    "Version": "0.0.1",
+    "Description": "",
+    "UniqueID": "PoppedBit.AdvancedAlcohol",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets"
+    }
+  }
